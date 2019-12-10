@@ -14,9 +14,9 @@ I appreciate researches with reproducibility, and interpretability in mathematic
 
 I have been studying in data subsampling, in order to quantitatively measure data's *quality* and improve the machine learning model's robustness and performance with selected sub samples. Currently, my interests lie on three points:
 
-- **Policy fairness and Counterfactual learning**. In practical recommender system, the actual labeled user-item pairs are very sparse, compared with all possible combinations. Debiasing policy by counterfactual learning is important to improve policy fairness and global utility for all users.
-- **Bootstrapping for Semi-supervised learning**. Using limited labeled data to do pseudo label imputation, and label calibration by influence subsampling methods.
-- **Graph neural network and Knowledge graph**.  Leveraging GNN to learn representations from knowledge graph, for better information retrieval system.
+- **Counterfactual learning**. In practical recommender system, the actual labeled user-item pairs are very sparse, compared with all possible combinations. I am working on novel counterfactual learning regime for debiasing policy to improve policy fairness and global utility for all users.
+- **Semi-supervised learning**. Using limited labeled data to do pseudo label imputation, and doing label calibration by influence subsampling methods.
+- **Graph neural network**.  Leveraging GNN to learn representations from knowledge graph, for better information retrieval system.
 
 Papers
 ======
