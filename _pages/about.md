@@ -1,15 +1,12 @@
 ---
 permalink: /
-title: "Zifeng's Personal Page"
+title: "Welcome to Zifeng's  Page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Bio
-=====
 
 My name is Zifeng Wang. I am currently a second year M.S. student from Lab 2C, [Tsinghua-Berkeley Shenzhen Institute (TBSI)](https://www.tbsi.edu.cn/en/), Tsinghua University, luckily co-advised by Professor [Shao-Lun Huang, TBSI](https://www.tbsi.edu.cn/en/index.php?s=/cms/181.html) and Professor [Khalid M. Mosalam, UC-Berkeley](https://www.tbsi.edu.cn/en/index.php?s=/cms/182.html). Before that, I received my B.S. degree from Tongji University in 2018.
 

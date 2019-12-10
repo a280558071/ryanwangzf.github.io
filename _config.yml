@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Zifeng Wang"
+  avatar           : "wzf.jpg"
+  bio              : "wangzf18@mails.tsinghua.edu.cn"
+  location         : "Shenzhen, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=kMlWwTAAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "ryanwangzf"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-0575-0022"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
