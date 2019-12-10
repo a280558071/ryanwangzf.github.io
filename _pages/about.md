@@ -30,6 +30,10 @@ Industry Experience
 2. April 2019 - Oct. 2019. Noah's Ark Lab, Huawei. Research Intern.
 3. April 2018 - July 2018. Enigma Investment.  Quantitative investment Intern.
 
+Projects
+=====
+1. Synthetic Vision Module Development for Indoor Robot
+
 Teaching
 ======
 1. TA for 2019 Fall [Machine Learning, TBSI](https://www.tbsi.edu.cn/en/index.php?s=/cms/377.html), taught by Shao-Lun Huang and Yang Li. [[code]](https://github.com/RyanWangZf/Learning_From_Data_2019_Fall)
