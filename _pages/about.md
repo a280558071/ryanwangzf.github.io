@@ -10,9 +10,13 @@ redirect_from:
 
 My name is Zifeng Wang. I am currently a second year M.S. student from Lab 2C, [Tsinghua-Berkeley Shenzhen Institute (TBSI)](https://www.tbsi.edu.cn/en/), Tsinghua University, luckily co-advised by Professor [Shao-Lun Huang, TBSI](https://www.tbsi.edu.cn/en/index.php?s=/cms/181.html) and Professor [Khalid M. Mosalam, UC-Berkeley](https://www.tbsi.edu.cn/en/index.php?s=/cms/182.html). Before that, I received my B.S. degree from Tongji University in 2018.
 
-I appreciate researches with reproducibility, and interpretability in mathematics, rather than those striving for incremental performance with massive implementation tricks. My research interest is machine learning, including data subsampling, semi-supervised learning and fair machine learning.
+I appreciate researches with reproducibility, and interpretability in mathematics, rather than those striving for incremental performance with massive implementation tricks. My research interest is machine learning, including data subsampling, semi-supervised learning and fair machine learning. I also work in AI for smart building.
 
-I have been studying in data subsampling, in order to quantitatively measure data's *quality* and improve the machine learning model's robustness and performance with selected sub samples. Currently, my interests lie on overcoming bias and unfairness in recommender system, when the actual labeled user-item pairs are very sparse compared with all possible pairs. I am also interested in semi-supervised learning, specifically in bootstrapping approaches, which I suppose can benefit from my previous subsampling works, for interpretable label imputation and calibration.
+I have been studying in data subsampling, in order to quantitatively measure data's *quality* and improve the machine learning model's robustness and performance with selected sub samples. Currently, my interests lie on three points:
+
+- **Policy fairness and Counterfactual learning**. In practical recommender system, the actual labeled user-item pairs are very sparse, compared with all possible combinations. Debiasing policy by counterfactual learning is important to improve policy fairness and global utility for all users.
+- **Bootstrapping for Semi-supervised learning**. Using limited labeled data to do pseudo label imputation, and label calibration by influence subsampling methods.
+- **Graph neural network and Knowledge graph**.  Leveraging GNN to learn representations from knowledge graph, for better information retrieval system.
 
 Papers
 ======
@@ -20,13 +24,13 @@ Papers
 2. **Zifeng Wang**, Yuyang Zhang, Khalid M. Mosalam, Yuqing Gao and Shao-Lun Huang. *Deep Fusion Network with RGB-Depth Image for Pixel-level Semantic Segmentation on Construction Sites*. **Automation in Construction**. (under review)
 3. **Zifeng Wang** and Suzhen Li. *Data-driven Risk Assessment on Urban Pipeline Network Based on a Cluster Model*. **Reliability Engineering and System Safety**. (under review)
 
+Industry Experience
+======
+1. Dec. 2019 - Present. Jarvis Lab, CSIG, Tencent. Research Intern.
+2. April 2019 - Oct. 2019. Noah's Ark Lab, Huawei. Research Intern.
+3. April 2018 - July 2018. Enigma Investment.  Quantitative investment Intern.
+
 Teaching
 ======
 1. TA for 2019 Fall [Machine Learning, TBSI](https://www.tbsi.edu.cn/en/index.php?s=/cms/377.html), taught by Shao-Lun Huang and Yang Li. [[code]](https://github.com/RyanWangZf/Learning_From_Data_2019_Fall)
-
-Industry Experience
-======
-1. Jarvis Lab, CSIG, Tencent. Research Intern.
-2. Noah's Ark Lab, Huawei. Research Intern.
-3. Enigma Investment.  Quantitative investment Intern.
 
