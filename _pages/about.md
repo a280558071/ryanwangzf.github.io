@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Zifeng Wang. I am currently a second year M.S. student of Data Science, from Lab 2C, [Tsinghua-Berkeley Shenzhen Institute (TBSI)](https://www.tbsi.edu.cn/en/), Tsinghua University, luckily co-advised by Professor [Shao-Lun Huang, TBSI](https://www.tbsi.edu.cn/en/index.php?s=/cms/181.html) and Professor [Khalid M. Mosalam, UC-Berkeley](https://www.tbsi.edu.cn/en/index.php?s=/cms/182.html). Before that, I received my B.S. degree from Tongji University in 2018.
+My name is Zifeng Wang. I am currently a second year M.S. student of Data Science, from Lab 2C, [Tsinghua-Berkeley Shenzhen Institute (TBSI)](https://www.tbsi.edu.cn/en/), Tsinghua University, fortunately co-advised by Professor [Shao-Lun Huang, TBSI](https://www.tbsi.edu.cn/en/index.php?s=/cms/181.html) and Professor [Khalid M. Mosalam, UC-Berkeley](https://www.tbsi.edu.cn/en/index.php?s=/cms/182.html). Before that, I received my B.S. degree from Tongji University in 2018.
 
 I appreciate researches with reproducibility, and interpretability in mathematics, rather than those striving for incremental performance with massive implementation tricks.  I have been studying in data subsampling, in order to quantitatively measure data's *quality* and improve the machine learning model's robustness and performance with selected sub samples. Currently, my interests lie on four points:
 
