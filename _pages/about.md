@@ -33,7 +33,7 @@ Industry Experience
 
 Projects
 =====
-1. Synthetic Vision Module Development for Indoor Robot
+1. Synthetic Vision Module Development for Indoor Robot, Shenzhen, China, Feb. 2019 - Aug. 2019, [[code]](https://github.com/RyanWangZf/Lab2cRobot-Beta/tree/zifeng)
 
 Teaching
 ======
