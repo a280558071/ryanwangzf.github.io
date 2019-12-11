@@ -12,7 +12,7 @@ My name is Zifeng Wang. I am currently a second year M.S. student of Data Scienc
 
 I appreciate researches with reproducibility, and interpretability in mathematics, rather than those striving for incremental performance with massive implementation tricks.  I have been studying in data subsampling, in order to quantitatively measure data's *quality* and improve the machine learning model's robustness and performance with selected sub samples. Currently, my interests lie on three points:
 
-- **Counterfactual learning**. In practical recommender system, the actual labeled user-item pairs are very sparse, compared with all possible combinations. I am working on novel counterfactual learning regime for debiasing policy to improve policy fairness and global utility for all users.
+- **Counterfactual learning**. Learning from sparse and selective labeled user-item pairs to estimate true interests of users. I am working on new counterfactual learning regime for debiasing policy to improve policy fairness and global utility for all users.
 - **Semi-supervised learning**. Using limited labeled data to do pseudo label imputation, and doing label calibration by influence subsampling methods.
 - **Graph neural network**.  Leveraging GNN to learn representations from knowledge graph, for better information retrieval system.
 
