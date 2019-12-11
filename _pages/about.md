@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-My name is Zifeng Wang. I am currently a second year M.S. student from Lab 2C, [Tsinghua-Berkeley Shenzhen Institute (TBSI)](https://www.tbsi.edu.cn/en/), Tsinghua University, luckily co-advised by Professor [Shao-Lun Huang, TBSI](https://www.tbsi.edu.cn/en/index.php?s=/cms/181.html) and Professor [Khalid M. Mosalam, UC-Berkeley](https://www.tbsi.edu.cn/en/index.php?s=/cms/182.html). Before that, I received my B.S. degree from Tongji University in 2018.
+My name is Zifeng Wang. I am currently a second year M.S. student of Data Science, from Lab 2C, [Tsinghua-Berkeley Shenzhen Institute (TBSI)](https://www.tbsi.edu.cn/en/), Tsinghua University, luckily co-advised by Professor [Shao-Lun Huang, TBSI](https://www.tbsi.edu.cn/en/index.php?s=/cms/181.html) and Professor [Khalid M. Mosalam, UC-Berkeley](https://www.tbsi.edu.cn/en/index.php?s=/cms/182.html). Before that, I received my B.S. degree from Tongji University in 2018.
 
-I appreciate researches with reproducibility, and interpretability in mathematics, rather than those striving for incremental performance with massive implementation tricks. My research interest is machine learning, including data subsampling, semi-supervised learning and fair machine learning. I also work in AI for smart building.
-
-I have been studying in data subsampling, in order to quantitatively measure data's *quality* and improve the machine learning model's robustness and performance with selected sub samples. Currently, my interests lie on three points:
+I appreciate researches with reproducibility, and interpretability in mathematics, rather than those striving for incremental performance with massive implementation tricks.  I have been studying in data subsampling, in order to quantitatively measure data's *quality* and improve the machine learning model's robustness and performance with selected sub samples. Currently, my interests lie on three points:
 
 - **Counterfactual learning**. In practical recommender system, the actual labeled user-item pairs are very sparse, compared with all possible combinations. I am working on novel counterfactual learning regime for debiasing policy to improve policy fairness and global utility for all users.
 - **Semi-supervised learning**. Using limited labeled data to do pseudo label imputation, and doing label calibration by influence subsampling methods.
 - **Graph neural network**.  Leveraging GNN to learn representations from knowledge graph, for better information retrieval system.
+
+Besides, I also work in AI's application in smart building and construction, with Professor Khalid M. Mosalam.
 
 Papers
 ======
