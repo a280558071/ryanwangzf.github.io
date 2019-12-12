@@ -12,10 +12,17 @@ My name is Zifeng Wang. I am currently a second year M.S. student of Data Scienc
 
 I appreciate researches with reproducibility, and interpretability in mathematics, rather than those striving for incremental performance with massive implementation tricks.  I have been studying in data subsampling, in order to quantitatively measure data's *quality* and improve the machine learning model's robustness and performance with selected sub samples. Currently, my interests lie on four points:
 
-- **Counterfactual learning**. Learning from sparse and selective labeled user-item pairs to estimate true interests of users. I am working on new counterfactual learning regime for debiasing policy to improve policy fairness and global utility for all users.
-- **Semi-supervised learning**. Using limited labeled data to do pseudo label imputation, and doing label calibration by influence subsampling methods.
-- **Graph neural network**.  Leveraging GNN to learn representations from knowledge graph, for better information retrieval system.
-- **Distributionally robust subsampling**. Developing distributionally robust influence function (IF) that measures one sample's influence over a set of distributions, rather than specific one, to improve robustness of IF subsampling.
+**Counterfactual learning**
+:  Learning from sparse and selective labeled user-item pairs to estimate true interests of users. I am working on new counterfactual learning regime for debiasing policy to improve policy fairness and global utility for all users.
+
+**Semi-supervised learning**
+:  Using limited labeled data to do pseudo label imputation, and doing label calibration by influence subsampling methods.
+
+**Distributionally robust subsampling**
+:  Developing distributionally robust influence function (IF) that measures one sample's influence over a set of distributions, rather than specific one, to improve robustness of IF subsampling.
+
+**Graph neural network**
+:  Leveraging GNN to learn representations from knowledge graph, for better information retrieval system.
 
 Besides, I also work in AI's application in smart building and construction, with Professor Khalid M. Mosalam.
 

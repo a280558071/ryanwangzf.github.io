@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[short CV](http://ryanwangzf.github.io/files/zifeng_cv_en.pdf)
+[[short CV]](http://ryanwangzf.github.io/files/zifeng_cv_en.pdf)
 
 Education Background
 ======
