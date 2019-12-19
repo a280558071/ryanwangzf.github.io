@@ -9,5 +9,6 @@ redirect_from:
   -/presentations
 ---
 
-## Under Construction
-
+## In TBSI Workshop On Data Science (WODS) 2019
+*Less Is Better: Unweighted Data Subsampling via Influence Function*.  [[ppt]](http://ryanwangzf.github.io/files/Subsampling_12_18_2019_tbsiwods.pdf)
+(**Best Student Research Runner-up**)

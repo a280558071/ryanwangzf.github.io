@@ -42,3 +42,7 @@ Teaching
 ======
 1. TA for 2019 Fall [Machine Learning, TBSI](https://www.tbsi.edu.cn/en/index.php?s=/cms/377.html), taught by Shao-Lun Huang and Yang Li. [[syllabus]](http://ryanwangzf.github.io/files/19fall_learning_from_data_syllabus.pdf) [[code]](https://github.com/RyanWangZf/Learning_From_Data_2019_Fall)
 
+Talking
+=====
+1. In TBSI Workshop On Data Science (WODS) 2019, *Less Is Better: Unweighted Data Subsampling via Influence Function*. (**Best Student Research Runner-up**)
+

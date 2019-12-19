@@ -61,5 +61,6 @@ Skills & Certification
 
 Other Achievements
 ======
+* In TBSI Workshop On Data Science (WODS) 2019, *Less Is Better: Unweighted Data Subsampling via Influence Function*. (**Best Student Research Runner-up**)
 * Kaggle: KKBox Music Recommendation Challenge (151/1081, 15%), Dec. 2017
 * Meriorious winner (1st class prize) in USA Mathematical Contest in Modeling, April 2017
