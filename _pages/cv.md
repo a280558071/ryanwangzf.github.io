@@ -13,7 +13,7 @@ Education Background
 ======
 * **Tsinghua University**, Shenzhen, China, 2018 - Present
   * M.S., Data Science, Tsinghua-Berkeley Shenzhen Institute (TBSI)
-  * GPA: 3.5 / 4.0; Major course: Machine learning, Computer vision, Information theory
+  * Major course: Machine learning, Computer vision, Information theory
   * Co-advised by: [Prof. Shao-Lun Huang, TBSI](https://www.tbsi.edu.cn/en/index.php?s=/cms/181.html) and [Prof. Khalid M. Mosalam, UC-Berkeley](https://www.tbsi.edu.cn/en/index.php?s=/cms/182.html)
 * **Tongji University**, Shanghai, China, 2014 - 2018
   * B.S., Structrual Engineering, School of Civil Engineering
@@ -24,7 +24,7 @@ Papers
 ======
 1. **Zifeng Wang**, Hong Zhu, Zhenhua Dong, Xiuqiang He and Shao-Lun Huang. *Less Is Better: Unweighted Data Subsampling via Influence Function*. **AAAI 2020**. [[pdf]](https://arxiv.org/abs/1912.01321)[[code]](https://github.com/RyanWangZf/Influence_Subsampling)
 2. **Zifeng Wang**, Yuyang Zhang, Khalid M. Mosalam, Yuqing Gao and Shao-Lun Huang. *Deep Fusion Network with RGB-Depth Image for Pixel-level Semantic Segmentation on Construction Sites*. **Automation in Construction**. (under review)
-3. **Zifeng Wang** and Suzhen Li. *Data-driven Risk Assessment on Urban Pipeline Network Based on a Cluster Model*. **Reliability Engineering and System Safety**. (under review)
+3. **Zifeng Wang** and Suzhen Li. *Data-driven Risk Assessment on Urban Pipeline Network Based on a Cluster Model*. **Reliability Engineering and System Safety**. (Accept)
 
 Industry Experience
 ======
