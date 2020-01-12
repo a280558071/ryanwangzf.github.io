@@ -22,27 +22,3 @@ I appreciate researches with reproducibility, and interpretability in mathematic
 
 Besides, I also work in AI's application in smart building and construction, with Professor Khalid M. Mosalam.
 
-Papers
-======
-1. **Zifeng Wang**, Hong Zhu, Zhenhua Dong, Xiuqiang He and Shao-Lun Huang. *Less Is Better: Unweighted Data Subsampling via Influence Function*. **AAAI 2020**. [[pdf]](https://arxiv.org/abs/1912.01321)[[code]](https://github.com/RyanWangZf/Influence_Subsampling)
-2. **Zifeng Wang**, Yuyang Zhang, Khalid M. Mosalam, Yuqing Gao and Shao-Lun Huang. *Deep Fusion Network with RGB-Depth Image for Pixel-level Semantic Segmentation on Construction Sites*. **Automation in Construction**. (under review)
-3. **Zifeng Wang** and Suzhen Li. *Data-driven Risk Assessment on Urban Pipeline Network Based on a Cluster Model*. **Reliability Engineering and System Safety**. (Accept) [[pdf]](https://authors.elsevier.com/c/1aJu93OQ~fLcaW)
-
-Industry Experience
-======
-1. Dec. 2019 - Present. Jarvis Lab, CSIG, Tencent. Research Intern.
-2. April 2019 - Oct. 2019. Noah's Ark Lab, Huawei. Research Intern.
-3. April 2018 - July 2018. Enigma Investment.  Quantitative investment Intern.
-
-Projects
-=====
-1. Synthetic Vision Module Development for Indoor Robot, Shenzhen, China, Feb. 2019 - Aug. 2019, [[code]](https://github.com/RyanWangZf/Lab2cRobot-Beta/tree/zifeng)
-
-Teaching
-======
-1. TA for 2019 Fall [Machine Learning, TBSI](https://www.tbsi.edu.cn/en/index.php?s=/cms/377.html), taught by Shao-Lun Huang and Yang Li. [[syllabus]](http://ryanwangzf.github.io/files/19fall_learning_from_data_syllabus.pdf) [[code]](https://github.com/RyanWangZf/Learning_From_Data_2019_Fall)
-
-Talking
-=====
-1. In [TBSI Workshop On Data Science (WODS) 2019](https://www.tbsi.edu.cn/wods/index.html), *Less Is Better: Unweighted Data Subsampling via Influence Function*. (**Best Student Research Runner-up**)
-

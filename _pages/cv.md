@@ -19,6 +19,8 @@ Education Background
   * B.S., Structrual Engineering, School of Civil Engineering
   * GPA: 4.4/5.0, Top(19/168); Advised by: Prof. Suzhen Li
   * Honors: Outstanding graduate (4/40) and graduate thesis (3/168)
+  
+  
 
 Papers
 ======
@@ -26,8 +28,19 @@ Papers
 2. **Zifeng Wang**, Yuyang Zhang, Khalid M. Mosalam, Yuqing Gao and Shao-Lun Huang. *Deep Fusion Network with RGB-Depth Image for Pixel-level Semantic Segmentation on Construction Sites*. **Automation in Construction**. (under review)
 3. **Zifeng Wang** and Suzhen Li. *Data-driven Risk Assessment on Urban Pipeline Network Based on a Cluster Model*. **Reliability Engineering and System Safety**. (Accept) [[pdf]](https://authors.elsevier.com/c/1aJu93OQ~fLcaW)
 
+
+
+Teaching
+======
+
+1. TA for 2019 Fall [**Machine Learning, TBSI**](https://www.tbsi.edu.cn/en/index.php?s=/cms/377.html), given by Shao-Lun Huang and Yang Li. [[syllabus]](http://ryanwangzf.github.io/files/19fall_learning_from_data_syllabus.pdf) [[code]](https://github.com/RyanWangZf/Learning_From_Data_2019_Fall)
+2. TA for 2020 Spring **Bayesian Learning and Data Analysis, TBSI**, given by [Ercan E. Kuruoglu](https://b.glgoo.top/citations?hl=zh-CN&user=To7e1toAAAAJ).
+
+
+
 Industry Experience
 ======
+
 * Jarvis Lab, CSIG, Tencent, Shenzhen, China, Dec. 2019 - Present
   * Using Graph Convolutional Network for query analysis and recommendation.
   * Study counterfactual learning free of randomized trials for debiasing policy and improving fairness.
@@ -42,11 +55,15 @@ Industry Experience
   * Mine techincal factors for intra day stock price prediction.
   * Build ARIMA + LSTM model for price prediction, and design T + 0 transaction strategy in the second market.
 
+
+
 Research in Progress
 ======
 * Learning from Counterfactuals
   * Research in sparse logged feedback, that observed labeled user-item pairs are much smaller than all possible pairs, which causes unfair and biased policy in practice.
   * Propose a novel *Learning-from-Counterfactuals* (LearnCF) framework, shown to alleviate policy bias in our preliminary results. We are currently proceeding for ICML 2020.
+
+
 
 Projects
 ======
@@ -54,10 +71,14 @@ Projects
   * Develop face recognition module on MTCNN and pretrained InceptionV1 for 1:N face verification.
   * Develop indoor object detection module based on YOLO-V3, and object tracking module on Siamese FCN.
 
+
+
 Skills & Certification
 ======
 * English: CET-6 (615), IELTS(7.0)
 * CS: Linux, C, Python and packages including pytorch, tensorflow, numpy, scipy, pandas, sklearn, etc.
+
+
 
 Other Achievements
 ======
