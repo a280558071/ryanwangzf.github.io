@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+
 
 My name is Zifeng Wang. I am currently a second year M.S. student of Data Science, from [Lab 2C, Tsinghua-Berkeley Shenzhen Institute (TBSI)](https://tbsi.berkeley.edu/lab-2c-internet-things-societal-cyber-physical-systems), Tsinghua University, fortunately co-advised by Professor [Shao-Lun Huang, TBSI](https://www.tbsi.edu.cn/en/index.php?s=/cms/181.html) and Professor [Khalid M. Mosalam, UC-Berkeley](https://ce.berkeley.edu/people/faculty/mosalam). Before that, I received my B.S. degree from Tongji University in 2018.
 
@@ -20,7 +23,9 @@ I appreciate researches with reproducibility, and interpretability in mathematic
 
 Besides, I also work in AI's application in smart building and construction, with Professor Khalid M. Mosalam.
 
-<span id="busuanzi_container_site_pv">
-    本站总访问量<span id="busuanzi_value_site_pv"></span>次
-</span>
+
+
+Total <span id="busuanzi_value_page_pv"><i class="fa fa-spinner"></i></span> Hits    
+
+
 
