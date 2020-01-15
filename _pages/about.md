@@ -24,4 +24,5 @@ Besides, I also work in AI's application in smart building and construction, wit
 ---
 
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=280&t=n&d=k51ULqcpzeVytshUMAEXZ22x6zhOUHyaMinpRP1ZG6k&co=3fb0ff"></script>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=280&t=tt&d=k51ULqcpzeVytshUMAEXZ22x6zhOUHyaMinpRP1ZG6k&co=0072c3"></script>
+
