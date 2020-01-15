@@ -24,8 +24,7 @@ Besides, I also work in AI's application in smart building and construction, wit
 ---
 Vistor Counts
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=k51ULqcpzeVytshUMAEXZ22x6zhOUHyaMinpRP1ZG6k&co=0095ff&ct=ffffff&cmo=3acc3a&cmn=ff5353"></script>
-
+<a href="https://clustrmaps.com/site/1b2f1" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=k51ULqcpzeVytshUMAEXZ22x6zhOUHyaMinpRP1ZG6k" /></a>
 
 
 <a href="https://info.flagcounter.com/RN9N"><img src="https://s04.flagcounter.com/count2/RN9N/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_5/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
