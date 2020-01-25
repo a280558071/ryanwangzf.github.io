@@ -25,8 +25,9 @@ Education Background
 Papers
 ======
 1. **Zifeng Wang**, Hong Zhu, Zhenhua Dong, Xiuqiang He and Shao-Lun Huang. *Less Is Better: Unweighted Data Subsampling via Influence Function*. **AAAI 2020**. [[pdf]](https://arxiv.org/abs/1912.01321)[[code]](https://github.com/RyanWangZf/Influence_Subsampling)
-2. **Zifeng Wang**, Yuyang Zhang, Khalid M. Mosalam, Yuqing Gao and Shao-Lun Huang. *Deep Fusion Network with RGB-Depth Image for Pixel-level Semantic Segmentation on Construction Sites*. **Automation in Construction**. (under review)
-3. **Zifeng Wang** and Suzhen Li. *Data-driven Risk Assessment on Urban Pipeline Network Based on a Cluster Model*. **Reliability Engineering and System Safety**. (Accept) [[pdf]](https://authors.elsevier.com/c/1aJu93OQ~fLcaW)
+2.  **Zifeng Wang**, Xi Chen, Rui Wen and Shao-Lun Huang. *On the Fairness of Randomized Trials for Recommendation With Heterogeneous Demographics and Beyond*. **Work in Progress**. [[pdf]](http://ryanwangzf.github.io/files/zifeng_icml2020_work_in_progress.pdf)
+3. **Zifeng Wang**, Yuyang Zhang, Khalid M. Mosalam, Yuqing Gao and Shao-Lun Huang. *Deep Fusion Network with RGB-Depth Image for Pixel-level Semantic Segmentation on Construction Sites*. **Automation in Construction**. (under review)
+4. **Zifeng Wang** and Suzhen Li. *Data-driven Risk Assessment on Urban Pipeline Network Based on a Cluster Model*. **Reliability Engineering and System Safety**. (Accept) [[pdf]](https://authors.elsevier.com/c/1aJu93OQ~fLcaW)
 
 
 
@@ -42,7 +43,7 @@ Industry Experience
 ======
 
 * Jarvis Lab, CSIG, Tencent, Shenzhen, China, Dec. 2019 - Present
-  * Using Graph Convolutional Network for query analysis and recommendation.
+  * Using Graph Convolutional Network for interpretable disease diagnosis.
   * Study counterfactual learning free of randomized trials for debiasing policy and improving fairness.
   * Study semi-supervised learning for pseudo labeling with intepretable label imputation and calibration.
 

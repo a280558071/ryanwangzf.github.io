@@ -19,10 +19,11 @@ I appreciate researches with reproducibility, and interpretability in mathematic
 
 Besides, I also work in AI's application in smart building and construction, with Professor Khalid M. Mosalam.
 
+I am currently in active mode looking for an intern oportunity about machine research.
+
 
 
 ---
 
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=280&t=tt&d=k51ULqcpzeVytshUMAEXZ22x6zhOUHyaMinpRP1ZG6k&co=0072c3"></script>
-
