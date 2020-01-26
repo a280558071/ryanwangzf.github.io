@@ -9,10 +9,11 @@ redirect_from:
   -/researches
 ---
 
-## Learning from Counterfactuals for Fair Recommender System
+## Improving Recommendation Fairness with Counterfactual Robust Risk Minimization  [[pdf]](https://ryanwangzf.github.io/files/zifeng_icml2020_work_in_progress.pdf)
 *Work in progress*
 
-Observed events in recommendation are consequence of the decisions made by a policy, thus they are usually *selectively* labeled, namely the data are *Missing Not At Random* (MNAR), which often causes large bias to the estimate of true outcomes average. A general approach to debiasing the policy learned from MNAR data is performing small *Randomized Controlled Trials*  (RCTs), where an additional *uniform policy* is employed to randomly assign items to each user. In this work, we concentrate on the fairness of RCTs under both homogeneous and heterogeneous demographics, especially analyzing the bias for the least favorable group on the latter setting. Considering RCTs' limitations, we propose a novel *Learning-from-Counterfactuals* (LearnCF) framework, which is totally free of expensive RCTs, to debiasing our policy, and give its theoretical generalization error bound. At last, empirical experiments are performed on synthetic tasks and real-world data sets, substantiating our method's superiority both in fairness and effectiveness.
+Observed events in recommendation are consequence of the decisions made by a policy, thus they are usually selectively labeled, namely the data are Missing Not At Random (MNAR), which often causes large bias to the estimate of true outcomes risk. A general approach to correct MNAR bias is performing small Randomized Controlled Trials (RCTs), where an additional uniform policy is employed to randomly assign items to each user. In this work, we concentrate on the fairness of RCTs under both homogeneous and heterogeneous demographics, especially analyzing the bias for the least favorable group on the latter setting. Considering RCTs’ limitations, we propose a novel Counterfactual Robust Risk Minimization (CRRM) framework, which is totally free of expensive RCTs, and derive its theoretical
+generalization error bound. At last, empirical experiments are performed on synthetic tasks and real-world data sets, substantiating our method’s superiority both in fairness and generalization.
 
 ## Unweighted Data Subsampling via Influence Function [[pdf]](https://arxiv.org/abs/1912.01321) [[code]](https://github.com/RyanWangZf/Influence_Subsampling)
 *Published in **AAAI 2020**, 2019*
