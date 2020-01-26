@@ -8,7 +8,7 @@ redirect_from:
   -/ta
 ---
 
-## TA for Learning from Data [[syllabus]](http://ryanwangzf.github.io/files/19fall_learning_from_data_syllabus.pdf) [[code]](https://github.com/RyanWangZf/Learning_From_Data_2019_Fall) [[review]](http://ryanwangzf.github.io/files/fall_19_learning_from_data_review.pdf) 
+## TA for Learning from Data [[syllabus]](http://ryanwangzf.github.io/files/19fall_learning_from_data_syllabus.pdf) [[code]](https://github.com/RyanWangZf/Learning_From_Data_2019_Fall) [[review]](https://ryanwangzf.github.io/files/fall_19_learning_from_data_review.pdf) 
 *2019 Fall, TBSI, Instructor: **[Yang Li](http://yangli-feasibility.com/home/index.html), Shao-Lun Huang***
 > This course involves many concepts, techniques, and algorithms in machine learning, beginning with topics such as logistic regression and SVM and ending up with more recent topics such as deep neural networks and reinforcement learning. The course gives the student the basic ideas and intuition behind modern machine learning methods as well as a bit more formal understanding of how, why, and when they work. The underlying theme in the course is statistical inference as it provides the foundation for most of the methods covered.
 

@@ -25,7 +25,7 @@ Education Background
 Papers
 ======
 1. **Zifeng Wang**, Hong Zhu, Zhenhua Dong, Xiuqiang He and Shao-Lun Huang. *Less Is Better: Unweighted Data Subsampling via Influence Function*. **AAAI 2020**. [[pdf]](https://arxiv.org/abs/1912.01321)[[code]](https://github.com/RyanWangZf/Influence_Subsampling)
-2.  **Zifeng Wang**, Xi Chen, Rui Wen and Shao-Lun Huang. *On the Fairness of Randomized Trials for Recommendation With Heterogeneous Demographics and Beyond*. **Work in Progress**. [[pdf]](http://ryanwangzf.github.io/files/zifeng_icml2020_work_in_progress.pdf)
+2.  **Zifeng Wang**, Xi Chen, Rui Wen and Shao-Lun Huang. *On the Fairness of Randomized Trials for Recommendation With Heterogeneous Demographics and Beyond*. **Work in Progress**. [[pdf]](https://ryanwangzf.github.io/files/zifeng_icml2020_work_in_progress.pdf)
 3. **Zifeng Wang**, Yuyang Zhang, Khalid M. Mosalam, Yuqing Gao and Shao-Lun Huang. *Deep Fusion Network with RGB-Depth Image for Pixel-level Semantic Segmentation on Construction Sites*. **Automation in Construction**. (under review)
 4. **Zifeng Wang** and Suzhen Li. *Data-driven Risk Assessment on Urban Pipeline Network Based on a Cluster Model*. **Reliability Engineering and System Safety**. (Accept) [[pdf]](https://authors.elsevier.com/c/1aJu93OQ~fLcaW)
 
@@ -34,7 +34,7 @@ Papers
 Teaching
 ======
 
-1. TA for 2019 Fall [**Machine Learning, TBSI**](https://www.tbsi.edu.cn/en/index.php?s=/cms/377.html), given by Shao-Lun Huang and Yang Li. [[syllabus]](http://ryanwangzf.github.io/files/19fall_learning_from_data_syllabus.pdf) [[code]](https://github.com/RyanWangZf/Learning_From_Data_2019_Fall)
+1. TA for 2019 Fall [**Machine Learning, TBSI**](https://www.tbsi.edu.cn/en/index.php?s=/cms/377.html), given by Shao-Lun Huang and Yang Li. [[syllabus]](https://ryanwangzf.github.io/files/19fall_learning_from_data_syllabus.pdf) [[code]](https://github.com/RyanWangZf/Learning_From_Data_2019_Fall)
 2. TA for 2020 Spring **Bayesian Learning and Data Analysis, TBSI**, given by [Ercan E. Kuruoglu](https://b.glgoo.top/citations?hl=zh-CN&user=To7e1toAAAAJ).
 
 
@@ -55,15 +55,6 @@ Industry Experience
 * Enigma Investment, Shanghai, China, April 2018 - July 2018
   * Mine techincal factors for intra day stock price prediction.
   * Build ARIMA + LSTM model for price prediction, and design T + 0 transaction strategy in the second market.
-
-
-
-Research in Progress
-======
-* Learning from Counterfactuals
-  * Research in sparse logged feedback, that observed labeled user-item pairs are much smaller than all possible pairs, which causes unfair and biased policy in practice.
-  * Propose a novel *Learning-from-Counterfactuals* (LearnCF) framework, shown to alleviate policy bias in our preliminary results. We are currently proceeding for ICML 2020.
-
 
 
 Projects
