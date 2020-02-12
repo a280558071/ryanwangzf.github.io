@@ -35,7 +35,7 @@ Teaching
 ======
 
 1. TA for 2019 Fall [**Machine Learning, TBSI**](https://www.tbsi.edu.cn/en/index.php?s=/cms/377.html), given by Shao-Lun Huang and Yang Li. [[syllabus]](https://ryanwangzf.github.io/files/19fall_learning_from_data_syllabus.pdf) [[code]](https://github.com/RyanWangZf/Learning_From_Data_2019_Fall)
-2. TA for 2020 Spring **Bayesian Learning and Data Analysis, TBSI**, given by [Ercan E. Kuruoglu](https://b.glgoo.top/citations?hl=zh-CN&user=To7e1toAAAAJ).
+2. TA for 2020 Spring **Bayesian Learning and Data Analysis, TBSI**, given by [Ercan E. Kuruoglu](https://b.glgoo.top/citations?hl=zh-CN&user=To7e1toAAAAJ). [[syllabus]](https://ryanwangzf.github.io/files/20spring_Bayesian_Learning_Syllabus.pdf)
 
 
 
